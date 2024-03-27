@@ -1,8 +1,8 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_uncle - To finds the uncle of a node
- *                     in a binary tree.
+ * binary_tree_uncle - To finds the uncle of a nod
+ * in a binary tree.
  * @node: Pointer to the node to find the uncle of.
  *
  * Return: If node is NULL or has no uncle, NULL.

@@ -57,7 +57,7 @@ int binary_tree_is_complete(const binary_tree_t *tree)
  * check_parent - To checks if parent has a greater value than its childs
  *
  * @tree: Pointer to the node
- * Return: 1, if parent has a greater value, else, 0 
+ * Return: 1, if parent has a greater value, else, 0
  */
 int check_parent(const binary_tree_t *tree)
 {
